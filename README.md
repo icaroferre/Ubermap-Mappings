@@ -8,8 +8,8 @@ For more information about Ubermap, check out it's [README file](https://github.
 
 Mappings available in this repo (with percentage of completion):
 
-Madrona Labs Aalto - 80%
-D16 Decimort 2 - 100%
-D16 Frontier - 100%
-Arturia SEM V2 - 90% (Only missing the 8 Voice Programmer part)
-ValhallaDSP Space Modulator - 100%
+Madrona Labs Aalto - 80%  
+D16 Decimort 2 - 100%  
+D16 Frontier - 100%  
+Arturia SEM V2 - 90% (Only missing the 8 Voice Programmer part)  
+ValhallaDSP Space Modulator - 100%  
